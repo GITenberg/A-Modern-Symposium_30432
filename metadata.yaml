@@ -1,0 +1,31 @@
+_repo: A-Modern-Symposium_30432
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickinson, G. Lowes (Goldsworthy Lowes)
+    aliases:
+    - Dickinson, Goldsworthy Lowes
+    - Dickinson, Lowes
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1984'
+    url: http://www.gutenberg.org/2009/agents/1984
+    wikipedia: http://en.wikipedia.org/wiki/Goldsworthy_Lowes_Dickinson
+description: ''
+gutenberg_issued: '2009-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social conditions'
+- !lcsh 'Social problems'
+- !lcc 'HN'
+title: A Modern Symposium
+url: http://www.gutenberg.org/ebooks/30432
